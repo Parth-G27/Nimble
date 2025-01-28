@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Environment variables and settings
+.env
+.env.*
+
+# Virtual environment
+.venv-anchorhive/
+.env/
+.env
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+*.cover
+*.py,cover
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Docker-related files
+*.log
+.dockerignore
+
+# Database and other runtime files
+*.sqlite3
+*.db
+alembic.ini
+migrations/
+instance/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
