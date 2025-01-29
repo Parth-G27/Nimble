@@ -1,6 +1,6 @@
 # FastAPI Basics
 
-Welcome to the FastAPI Basics repository! This repository covers many of the concepts and features of FastAPI, a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
+Welcome to the FastAPI Basics repository! This repository covers many of the concepts and features of FastAPI, a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. Notes : https://fast-cereal-aee.notion.site/FastAPI-18198a8b13488043b392f412c2d2dcba?pvs=4
 
 ## Table of Contents
 
